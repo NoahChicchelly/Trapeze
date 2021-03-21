@@ -1,0 +1,14 @@
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\bin\Release\netcoreapp3.1\ConveyorBelt.exe
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\bin\Release\netcoreapp3.1\ConveyorBelt.deps.json
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\bin\Release\netcoreapp3.1\ConveyorBelt.runtimeconfig.json
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\bin\Release\netcoreapp3.1\ConveyorBelt.runtimeconfig.dev.json
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\bin\Release\netcoreapp3.1\ConveyorBelt.dll
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\bin\Release\netcoreapp3.1\ConveyorBelt.pdb
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\obj\Release\netcoreapp3.1\ConveyorBelt.ConveyorBeltInterface.resources
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\obj\Release\netcoreapp3.1\ConveyorBelt.csproj.GenerateResource.cache
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\obj\Release\netcoreapp3.1\ConveyorBelt.AssemblyInfoInputs.cache
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\obj\Release\netcoreapp3.1\ConveyorBelt.AssemblyInfo.cs
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\obj\Release\netcoreapp3.1\ConveyorBelt.csproj.CoreCompileInputs.cache
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\obj\Release\netcoreapp3.1\ConveyorBelt.dll
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\obj\Release\netcoreapp3.1\ConveyorBelt.pdb
+C:\Users\Chicx\Repositories\TrapezeProject\ConveyorBelt\obj\Release\netcoreapp3.1\ConveyorBelt.genruntimeconfig.cache
